@@ -1,6 +1,6 @@
 # app-project-django
 
-Um projeto Django básico com um aplicativo chamado `homeStart`.
+Um projeto Django básico.
 
 ## Funcionalidades
 
